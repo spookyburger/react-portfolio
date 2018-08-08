@@ -1,2 +1,4 @@
 # react-portfolio
-Helio Training Final Project
+
+run ```docker-compose up -d --build```
+go to ```localhost:3000```
